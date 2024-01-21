@@ -1,0 +1,21 @@
+body { background-color: #cfd8f9; }
+
+h1 {
+    color: rgb(81, 29, 129);
+}
+
+  
+ h2 {  
+     color: rgb(81, 29, 129);
+}
+
+h3 {  
+    color: rgb(107, 53, 156);
+}
+
+
+img {
+border-color: rgb(81, 29, 129);
+border-style: solid;
+border-width: 4px;
+}
