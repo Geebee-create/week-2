@@ -48,7 +48,24 @@ img {
 border-color: rgb(81, 29, 129);
 border-style: solid;
 border-width: 4px;
-width: 60%;
+width: 40%;
+margin: auto;
+margin-top: 10px;
+
+}
+
+<img src="allmypics/Orange Skirt.jpg" alt="An illustration I did."img {
+    display: block;
+border-color: rgb(81, 29, 129);
+border-style: solid;
+border-width: 4px;
+width: 30%;
 margin: auto;
 
+}>
+
+<img.orangeskirt.jpg
+{
+width:300px;
+height:300px;
 }
