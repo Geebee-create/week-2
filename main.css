@@ -33,7 +33,6 @@ h1 {
 }
 
 
-  
  h2 {  
      color: rgb(81, 29, 129);
 }
@@ -54,3 +53,16 @@ margin-top: 10px;
 
 }
 
+
+
+.video-container {
+    text-align: center;
+    margin-top: 20px; /* Adjust the margin as needed */
+}
+
+/* Responsive styling for the iframe */
+.video-container iframe {
+    width: 840px; /* Twice the original width */
+    height: 630px; /* Twice the original height */
+    max-width: 100%;
+}
