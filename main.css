@@ -44,6 +44,11 @@ h6 {
     text-align: center;
 }
 
+h4 {
+    color: rgb(81, 29, 129);
+    text-align: center;
+}
+
 img {
     display: block;
     border-color: rgb(81, 29, 129);
@@ -70,4 +75,10 @@ img {
     height: 630px;
     /* Twice the original height */
     max-width: 100%;
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
 }
