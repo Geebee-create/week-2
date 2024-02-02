@@ -120,3 +120,8 @@ a {
     width: 800px;
     height: auto; 
 }
+
+.smaller-image {
+    width: 20%; 
+    height: auto;
+}
