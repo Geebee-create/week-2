@@ -1,8 +1,7 @@
-body body {
-    background-color: #cfd8f9;
+body {
+    background-color: #cacdf4;
     display: flex;
     flex-direction: column;
-    align-items: center;
 }
 
 .topnav {
