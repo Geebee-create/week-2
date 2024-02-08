@@ -80,16 +80,15 @@ a {
     margin: 0 auto;
 }
 
-
-
 .square {
     width: 300px;
     height: 100px;
     background-color: purple;
-    display: flex; 
+    display: flex;
     animation-direction: alternate-reverse;
     align-items: center;
     justify-content: center;
+    margin: auto;  
     cursor: pointer;
 }
 
